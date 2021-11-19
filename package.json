@@ -1,0 +1,11 @@
+{
+  "name": "relaxed-trex",
+  "version": "1.0.0",
+  "description": "Relaxed T-Rex a collection of Tyrannosaurus in a fun way.",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Joel Barbosa",
+  "license": "ISC"
+}
